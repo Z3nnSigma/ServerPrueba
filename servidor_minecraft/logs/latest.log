@@ -1,23 +1,23 @@
-[04Apr2025 18:54:36.395] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[04Apr2025 18:54:36.400] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[04Apr2025 18:54:38.267] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[04Apr2025 18:54:38.324] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerPrueba/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[04Apr2025 18:54:38.692] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[04Apr2025 18:54:38.693] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Apr2025 18:54:38.694] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Apr2025 18:54:38.695] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Apr2025 18:54:38.972] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[04Apr2025 18:54:38.973] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[04Apr2025 18:54:41.735] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[04Apr2025 18:54:41.768] [main/ERROR] [mixin/]: Mixin config geckoanimfix.forge.mixins.json does not specify "minVersion" property
-[04Apr2025 18:54:41.940] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[04Apr2025 18:54:42.143] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Apr2025 18:54:42.162] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 135 options available, 0 override(s) found
-[04Apr2025 18:54:42.206] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Apr2025 18:54:42.211] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Apr2025 18:54:42.214] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Apr2025 18:54:42.237] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Apr2025 18:54:42.305] [main/INFO] [Puzzles Lib/]: Loading 89 mods:
+[04Apr2025 19:48:34.497] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[04Apr2025 19:48:34.502] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[04Apr2025 19:48:42.187] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04Apr2025 19:48:42.279] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerPrueba/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[04Apr2025 19:48:42.825] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[04Apr2025 19:48:42.826] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Apr2025 19:48:42.829] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Apr2025 19:48:42.830] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[04Apr2025 19:48:43.281] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[04Apr2025 19:48:43.282] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[04Apr2025 19:48:47.477] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[04Apr2025 19:48:47.551] [main/ERROR] [mixin/]: Mixin config geckoanimfix.forge.mixins.json does not specify "minVersion" property
+[04Apr2025 19:48:47.742] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[04Apr2025 19:48:48.022] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Apr2025 19:48:48.042] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 135 options available, 0 override(s) found
+[04Apr2025 19:48:48.092] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Apr2025 19:48:48.096] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Apr2025 19:48:48.099] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Apr2025 19:48:48.161] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Apr2025 19:48:48.251] [main/INFO] [Puzzles Lib/]: Loading 89 mods:
 	- aether 1.20.1-1.5.2-neoforge
 		|-- cumulus_menus 1.20.1-1.0.1-neoforge
 		|-- curios 5.6.1+1.20.1
@@ -109,349 +109,246 @@
 	- yungsbridges 1.20-Forge-4.0.3
 	- yungscavebiomes 1.20.1-Forge-2.0.4
 	- yungsextras 1.20-Forge-4.0.3
-[04Apr2025 18:54:42.359] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Apr2025 18:54:44.228] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[04Apr2025 18:54:44.229] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[04Apr2025 18:54:44.491] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER
-[04Apr2025 18:54:44.492] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/ParticleEngine (java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER)
-[04Apr2025 18:54:44.492] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.particle.ParticleEngine was not found the_bumblezone-common.mixins.json:client.ParticleEngineAccessor
-[04Apr2025 18:54:44.622] [main/WARN] [mixin/]: Error loading class: com/legacy/lost_aether/entity/AerwhaleKingEntity (java.lang.ClassNotFoundException: com.legacy.lost_aether.entity.AerwhaleKingEntity)
-[04Apr2025 18:54:44.840] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[04Apr2025 18:54:51.692] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[04Apr2025 18:54:52.921] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[04Apr2025 18:54:52.922] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[04Apr2025 18:54:52.941] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[04Apr2025 18:54:52.972] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[04Apr2025 18:54:52.973] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[04Apr2025 18:54:53.582] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
-[04Apr2025 18:54:53.847] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[04Apr2025 18:54:54.105] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[04Apr2025 18:54:54.167] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[04Apr2025 18:54:54.254] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[04Apr2025 18:54:57.847] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[04Apr2025 18:54:57.858] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[04Apr2025 18:54:57.860] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[04Apr2025 18:54:57.862] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[04Apr2025 18:54:58.116] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
-[04Apr2025 18:54:58.118] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[04Apr2025 18:54:58.118] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[04Apr2025 18:54:58.268] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[04Apr2025 18:54:58.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[04Apr2025 18:54:58.413] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[04Apr2025 18:54:58.427] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[04Apr2025 18:54:58.429] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[04Apr2025 18:54:58.430] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[04Apr2025 18:54:58.441] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
-[04Apr2025 18:54:58.457] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
-[04Apr2025 18:54:58.503] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[04Apr2025 18:54:58.503] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[04Apr2025 18:54:58.504] [main/INFO] [terrablender/]: Registered region aether:the_aether to index 0 for type THE_AETHER
-[04Apr2025 18:54:58.504] [main/INFO] [terrablender/]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
-[04Apr2025 18:54:58.540] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 2 for type OVERWORLD
-[04Apr2025 18:54:58.540] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 3 for type OVERWORLD
-[04Apr2025 18:54:58.540] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[04Apr2025 18:54:58.590] [main/INFO] [terrablender/]: Registered region deep_aether:deep_aether to index 1 for type THE_AETHER
-[04Apr2025 18:54:58.590] [main/INFO] [terrablender/]: Registered region deep_aether:rare to index 2 for type THE_AETHER
-[04Apr2025 18:54:58.609] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[04Apr2025 18:54:58.611] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[04Apr2025 18:54:58.617] [modloading-worker-0/INFO] [com.hexagram2021.mod_whitelist.common.utils.MWLogger/]: Mod Whitelist v1.1.0 is protecting your server!
-[04Apr2025 18:54:58.617] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[04Apr2025 18:54:58.618] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[04Apr2025 18:54:58.661] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
-[04Apr2025 18:54:58.664] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[04Apr2025 18:54:58.689] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[04Apr2025 18:54:58.717] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[04Apr2025 18:54:58.718] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[04Apr2025 18:54:58.722] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[04Apr2025 18:54:58.785] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[04Apr2025 18:54:59.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
-[04Apr2025 18:54:59.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[04Apr2025 18:54:59.293] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
-[04Apr2025 18:54:59.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[04Apr2025 18:54:59.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[04Apr2025 18:54:59.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Apr2025 18:54:59.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[04Apr2025 18:54:59.489] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[04Apr2025 18:54:59.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[04Apr2025 18:54:59.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[04Apr2025 18:55:00.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[04Apr2025 18:55:00.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[04Apr2025 18:55:00.174] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.28 Target: 1.20.1-2.5.29
-[04Apr2025 18:55:00.174] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
-[04Apr2025 18:55:00.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
-[04Apr2025 18:55:00.213] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtavernsstrongholdrework] Starting version check at https://api.modrinth.com/updates/rYocd2LE/forge_updates.json
-[04Apr2025 18:55:00.369] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtavernsstrongholdrework] Found status: OUTDATED Current: 1 Target: 1+mod
-[04Apr2025 18:55:00.369] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
-[04Apr2025 18:55:00.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[04Apr2025 18:55:00.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[04Apr2025 18:55:00.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[04Apr2025 18:55:00.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[04Apr2025 18:55:00.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
-[04Apr2025 18:55:00.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[04Apr2025 18:55:00.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
-[04Apr2025 18:55:00.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[04Apr2025 18:55:00.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.29 Target: null
-[04Apr2025 18:55:00.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
-[04Apr2025 18:55:00.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: OUTDATED Current: 3.9.0 Target: 3.9.2
-[04Apr2025 18:55:00.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
-[04Apr2025 18:55:00.953] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
-[04Apr2025 18:55:04.176] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04Apr2025 18:55:04.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:empty_vape_pod Expected: 2525 Got: 5848
-[04Apr2025 18:55:04.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:water_filled_vape_pod Expected: 2526 Got: 5849
-[04Apr2025 18:55:04.421] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:mundane_potion_filled_vape_pod Expected: 2527 Got: 5850
-[04Apr2025 18:55:04.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:thick_potion_filled_vape_pod Expected: 2528 Got: 5851
-[04Apr2025 18:55:04.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:awkward_potion_filled_vape_pod Expected: 2529 Got: 5852
-[04Apr2025 18:55:04.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:vape_pod_of_night_vision Expected: 2530 Got: 5853
-[04Apr2025 18:55:04.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:vape_pod_of_invisibility Expected: 2531 Got: 5854
-[04Apr2025 18:55:04.422] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:vape_pod_of_jump_boost Expected: 2532 Got: 5855
-[04Apr2025 18:55:04.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:vape_pod_of_fire_resistance Expected: 2533 Got: 5856
-[04Apr2025 18:55:04.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:vape_pod_of_swiftness Expected: 2534 Got: 5857
-[04Apr2025 18:55:04.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:vape_pod_of_slowness Expected: 2535 Got: 5858
-[04Apr2025 18:55:04.423] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:vape_pod_of_the_turtle_master Expected: 2536 Got: 5859
-[04Apr2025 18:55:04.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:white_vape Expected: 2537 Got: 5860
-[04Apr2025 18:55:04.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_gray_vape Expected: 2538 Got: 5861
-[04Apr2025 18:55:04.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:grayvape Expected: 2539 Got: 5862
-[04Apr2025 18:55:04.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:black_vape Expected: 2540 Got: 5863
-[04Apr2025 18:55:04.424] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:brown_vape Expected: 2541 Got: 5864
-[04Apr2025 18:55:04.425] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:red_vape Expected: 2542 Got: 5865
-[04Apr2025 18:55:04.425] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:orange_vape Expected: 2543 Got: 5866
-[04Apr2025 18:55:04.425] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:yellow_vape Expected: 2544 Got: 5867
-[04Apr2025 18:55:04.425] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:lime_vape Expected: 2545 Got: 5868
-[04Apr2025 18:55:04.426] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:green_vape Expected: 2546 Got: 5869
-[04Apr2025 18:55:04.426] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:cyan_vape Expected: 2547 Got: 5870
-[04Apr2025 18:55:04.426] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_blue_vape Expected: 2548 Got: 5871
-[04Apr2025 18:55:04.426] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:blue_vape Expected: 2549 Got: 5872
-[04Apr2025 18:55:04.426] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:purple_vape Expected: 2550 Got: 5873
-[04Apr2025 18:55:04.427] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:magenta_vape Expected: 2551 Got: 5874
-[04Apr2025 18:55:04.427] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:pink_vape Expected: 2552 Got: 5875
-[04Apr2025 18:55:04.427] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:white_water_filled_vape Expected: 2553 Got: 5876
-[04Apr2025 18:55:04.427] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_gray_water_filled_vape Expected: 2554 Got: 5877
-[04Apr2025 18:55:04.427] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:gray_water_filled_vape Expected: 2555 Got: 5878
-[04Apr2025 18:55:04.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:black_water_filled_vape Expected: 2556 Got: 5879
-[04Apr2025 18:55:04.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:brown_water_filled_vape Expected: 2557 Got: 5880
-[04Apr2025 18:55:04.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:red_water_filled_vape Expected: 2558 Got: 5881
-[04Apr2025 18:55:04.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:orange_water_filled_vape Expected: 2559 Got: 5882
-[04Apr2025 18:55:04.428] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:yellow_water_filled_vape Expected: 2560 Got: 5883
-[04Apr2025 18:55:04.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:lime_water_filled_vape Expected: 2561 Got: 5884
-[04Apr2025 18:55:04.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:green_water_filled_vape Expected: 2562 Got: 5885
-[04Apr2025 18:55:04.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:cyan_water_filled_vape Expected: 2563 Got: 5886
-[04Apr2025 18:55:04.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_blue_water_filled_vape Expected: 2564 Got: 5887
-[04Apr2025 18:55:04.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:blue_water_filled_vape Expected: 2565 Got: 5888
-[04Apr2025 18:55:04.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:purple_water_filled_vape Expected: 2566 Got: 5889
-[04Apr2025 18:55:04.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:magenta_water_filled_vape Expected: 2567 Got: 5890
-[04Apr2025 18:55:04.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:pink_water_filled_vape Expected: 2568 Got: 5891
-[04Apr2025 18:55:04.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:white_night_vision_filled_vape Expected: 2569 Got: 5892
-[04Apr2025 18:55:04.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_gray_night_vision_filled_vape Expected: 2570 Got: 5893
-[04Apr2025 18:55:04.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:gray_night_vision_filled_vape Expected: 2571 Got: 5894
-[04Apr2025 18:55:04.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:black_night_vision_filled_vape Expected: 2572 Got: 5895
-[04Apr2025 18:55:04.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:brown_night_vision_filled_vape Expected: 2573 Got: 5896
-[04Apr2025 18:55:04.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:red_night_vision_filled_vape Expected: 2574 Got: 5897
-[04Apr2025 18:55:04.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:orange_night_vision_filled_vape Expected: 2575 Got: 5898
-[04Apr2025 18:55:04.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:yellow_night_vision_filled_vape Expected: 2576 Got: 5899
-[04Apr2025 18:55:04.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:lime_night_vision_filled_vape Expected: 2577 Got: 5900
-[04Apr2025 18:55:04.431] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:green_night_vision_filled_vape Expected: 2578 Got: 5901
-[04Apr2025 18:55:04.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:cyan_night_vision_filled_vape Expected: 2579 Got: 5902
-[04Apr2025 18:55:04.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_blue_night_vision_filled_vape Expected: 2580 Got: 5903
-[04Apr2025 18:55:04.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:blue_night_vision_filled_vape Expected: 2581 Got: 5904
-[04Apr2025 18:55:04.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:purple_night_vision_filled_vape Expected: 2582 Got: 5905
-[04Apr2025 18:55:04.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:magenta_night_vision_filled_vape Expected: 2583 Got: 5906
-[04Apr2025 18:55:04.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:pink_night_vision_filled_vape Expected: 2584 Got: 5907
-[04Apr2025 18:55:04.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:white_invisibility_filled_vape Expected: 2585 Got: 5908
-[04Apr2025 18:55:04.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_gray_invisibility_filled_vape Expected: 2586 Got: 5909
-[04Apr2025 18:55:04.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:gray_invisibility_filled_vape Expected: 2587 Got: 5910
-[04Apr2025 18:55:04.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:black_invisibility_filled_vape Expected: 2588 Got: 5911
-[04Apr2025 18:55:04.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:brown_invisibility_filled_vape Expected: 2589 Got: 5912
-[04Apr2025 18:55:04.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:red_invisibility_filled_vape Expected: 2590 Got: 5913
-[04Apr2025 18:55:04.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:orange_invisibility_filled_vape Expected: 2591 Got: 5914
-[04Apr2025 18:55:04.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:yellow_invisibility_filled_vape Expected: 2592 Got: 5915
-[04Apr2025 18:55:04.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:lime_invisibility_filled_vape Expected: 2593 Got: 5916
-[04Apr2025 18:55:04.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:green_invisibility_filled_vape Expected: 2594 Got: 5917
-[04Apr2025 18:55:04.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:cyan_invisibility_filled_vape Expected: 2595 Got: 5918
-[04Apr2025 18:55:04.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_blue_invisibility_filled_vape Expected: 2596 Got: 5919
-[04Apr2025 18:55:04.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:blue_invisibility_filled_vape Expected: 2597 Got: 5920
-[04Apr2025 18:55:04.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:purple_invisibility_filled_vape Expected: 2598 Got: 5921
-[04Apr2025 18:55:04.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:magenta_invisibility_filled_vape Expected: 2599 Got: 5922
-[04Apr2025 18:55:04.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:pink_invisibility_filled_vape Expected: 2600 Got: 5923
-[04Apr2025 18:55:04.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:white_jump_boost_filled_vape Expected: 2601 Got: 5924
-[04Apr2025 18:55:04.435] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_gray_jump_boost_filled_vape Expected: 2602 Got: 5925
-[04Apr2025 18:55:04.435] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:gray_jump_boost_filled_vape Expected: 2603 Got: 5926
-[04Apr2025 18:55:04.435] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:black_jump_boost_filled_vape Expected: 2604 Got: 5927
-[04Apr2025 18:55:04.435] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:brown_jump_boost_filled_vape Expected: 2605 Got: 5928
-[04Apr2025 18:55:04.435] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:red_jump_boost_filled_vape Expected: 2606 Got: 5929
-[04Apr2025 18:55:04.435] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:orange_jump_boost_filled_vape Expected: 2607 Got: 5930
-[04Apr2025 18:55:04.435] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:yellow_jump_boost_filled_vape Expected: 2608 Got: 5931
-[04Apr2025 18:55:04.435] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:lime_jump_boost_filled_vape Expected: 2609 Got: 5932
-[04Apr2025 18:55:04.436] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:green_jump_boost_filled_vape Expected: 2610 Got: 5933
-[04Apr2025 18:55:04.436] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:cyan_jump_boost_filled_vape Expected: 2611 Got: 5934
-[04Apr2025 18:55:04.436] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_blue_jump_boost_filled_vape Expected: 2612 Got: 5935
-[04Apr2025 18:55:04.436] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:blue_jump_boost_filled_vape Expected: 2613 Got: 5936
-[04Apr2025 18:55:04.436] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:purple_jump_boost_filled_vape Expected: 2614 Got: 5937
-[04Apr2025 18:55:04.436] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:magenta_jump_boost_filled_vape Expected: 2615 Got: 5938
-[04Apr2025 18:55:04.436] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:pink_jump_boost_filled_vape Expected: 2616 Got: 5939
-[04Apr2025 18:55:04.437] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:white_fire_resistance_filled_vape Expected: 2617 Got: 5940
-[04Apr2025 18:55:04.437] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_gray_fire_resistance_filled_vape Expected: 2618 Got: 5941
-[04Apr2025 18:55:04.437] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:gray_fire_resistance_filled_vape Expected: 2619 Got: 5942
-[04Apr2025 18:55:04.437] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:black_fire_resistance_filled_vape Expected: 2620 Got: 5943
-[04Apr2025 18:55:04.437] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:brown_fire_resistance_filled_vape Expected: 2621 Got: 5944
-[04Apr2025 18:55:04.437] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:red_fire_resistance_filled_vape Expected: 2622 Got: 5945
-[04Apr2025 18:55:04.437] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:orange_fire_resistance_filled_vape Expected: 2623 Got: 5946
-[04Apr2025 18:55:04.438] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:yellow_fire_resistance_filled_vape Expected: 2624 Got: 5947
-[04Apr2025 18:55:04.438] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:lime_fire_resistance_filled_vape Expected: 2625 Got: 5948
-[04Apr2025 18:55:04.438] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:green_fire_resistance_filled_vape Expected: 2626 Got: 5949
-[04Apr2025 18:55:04.438] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:cyan_fire_resistance_filled_vape Expected: 2627 Got: 5950
-[04Apr2025 18:55:04.438] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_blue_fire_resistance_filled_vape Expected: 2628 Got: 5951
-[04Apr2025 18:55:04.438] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:blue_fire_resistance_filled_vape Expected: 2629 Got: 5952
-[04Apr2025 18:55:04.438] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:purple_fire_resistance_filled_vape Expected: 2630 Got: 5953
-[04Apr2025 18:55:04.439] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:magenta_fire_resistance_filled_vape Expected: 2631 Got: 5954
-[04Apr2025 18:55:04.439] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:pink_fire_resistance_filled_vape Expected: 2632 Got: 5955
-[04Apr2025 18:55:04.439] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:white_swiftness_filled_vape Expected: 2633 Got: 5956
-[04Apr2025 18:55:04.439] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_gray_swiftness_filled_vape Expected: 2634 Got: 5957
-[04Apr2025 18:55:04.439] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:gray_swiftness_filled_vape Expected: 2635 Got: 5958
-[04Apr2025 18:55:04.439] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:black_swiftness_filled_vape Expected: 2636 Got: 5959
-[04Apr2025 18:55:04.439] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:brown_swiftness_filled_vape Expected: 2637 Got: 5960
-[04Apr2025 18:55:04.440] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:red_swiftness_filled_vape Expected: 2638 Got: 5961
-[04Apr2025 18:55:04.440] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:orange_swiftness_filled_vape Expected: 2639 Got: 5962
-[04Apr2025 18:55:04.440] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:yellow_swiftness_filled_vape Expected: 2640 Got: 5963
-[04Apr2025 18:55:04.440] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:lime_swiftness_filled_vape Expected: 2641 Got: 5964
-[04Apr2025 18:55:04.440] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:green_swiftness_filled_vape Expected: 2642 Got: 5965
-[04Apr2025 18:55:04.441] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:cyan_swiftness_filled_vape Expected: 2643 Got: 5966
-[04Apr2025 18:55:04.441] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_blue_swiftness_filled_vape Expected: 2644 Got: 5967
-[04Apr2025 18:55:04.441] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:blue_swiftness_filled_vape Expected: 2645 Got: 5968
-[04Apr2025 18:55:04.441] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:purple_swiftness_filled_vape Expected: 2646 Got: 5969
-[04Apr2025 18:55:04.441] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:magenta_swiftness_filled_vape Expected: 2647 Got: 5970
-[04Apr2025 18:55:04.441] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:pink_swiftness_filled_vape Expected: 2648 Got: 5971
-[04Apr2025 18:55:04.442] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:white_slowness_filled_vape Expected: 2649 Got: 5972
-[04Apr2025 18:55:04.442] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_gray_slowness_filled_vape Expected: 2650 Got: 5973
-[04Apr2025 18:55:04.442] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:gray_slowness_filled_vape Expected: 2651 Got: 5974
-[04Apr2025 18:55:04.442] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:black_slowness_filled_vape Expected: 2652 Got: 5975
-[04Apr2025 18:55:04.442] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:brown_slowness_filled_vape Expected: 2653 Got: 5976
-[04Apr2025 18:55:04.442] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:red_slowness_filled_vape Expected: 2654 Got: 5977
-[04Apr2025 18:55:04.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:orange_slowness_filled_vape Expected: 2655 Got: 5978
-[04Apr2025 18:55:04.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:yellow_slowness_filled_vape Expected: 2656 Got: 5979
-[04Apr2025 18:55:04.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:lime_slowness_filled_vape Expected: 2657 Got: 5980
-[04Apr2025 18:55:04.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:green_slowness_filled_vape Expected: 2658 Got: 5981
-[04Apr2025 18:55:04.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:cyan_slowness_filled_vape Expected: 2659 Got: 5982
-[04Apr2025 18:55:04.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:light_blue_slowness_filled_vape Expected: 2660 Got: 5983
-[04Apr2025 18:55:04.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:blue_slowness_filled_vape Expected: 2661 Got: 5984
-[04Apr2025 18:55:04.444] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:purple_slowness_filled_vape Expected: 2662 Got: 5985
-[04Apr2025 18:55:04.444] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:magenta_slowness_filled_vape Expected: 2663 Got: 5986
-[04Apr2025 18:55:04.444] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:pink_slowness_filled_vape Expected: 2664 Got: 5987
-[04Apr2025 18:55:04.444] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:battery Expected: 2665 Got: 5988
-[04Apr2025 18:55:04.444] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:coil Expected: 2666 Got: 5989
-[04Apr2025 18:55:04.444] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:mouthpiece Expected: 2667 Got: 5990
-[04Apr2025 18:55:04.445] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: vapeaholic:vape_pod_of_water_breathing Expected: 2668 Got: 5991
-[04Apr2025 18:55:04.446] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: vapeaholic:breathing Expected: 1975 Got: 2784
-[04Apr2025 18:55:07.497] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23257!/assets/.mcassetsroot' uses unexpected schema
-[04Apr2025 18:55:07.497] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23257!/data/.mcassetsroot' uses unexpected schema
-[04Apr2025 18:55:07.605] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
-[04Apr2025 18:55:15.272] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
-[04Apr2025 18:55:15.473] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[04Apr2025 18:55:15.484] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[04Apr2025 18:55:15.578] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[04Apr2025 18:55:15.598] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[04Apr2025 18:55:15.691] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[04Apr2025 18:55:15.751] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[04Apr2025 18:55:15.752] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[04Apr2025 18:55:15.762] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[04Apr2025 18:55:15.771] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
-[04Apr2025 18:55:15.771] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
-[04Apr2025 18:55:15.967] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5469 advancements
-[04Apr2025 18:55:15.972] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[04Apr2025 18:55:15.972] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[04Apr2025 18:55:15.973] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[04Apr2025 18:55:15.973] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[04Apr2025 18:55:15.987] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[04Apr2025 18:55:15.990] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[04Apr2025 18:55:15.990] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[04Apr2025 18:55:15.990] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[04Apr2025 18:55:15.996] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
-[04Apr2025 18:55:15.998] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[04Apr2025 18:55:16.014] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 18 curio slots
-[04Apr2025 18:55:16.024] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
-[04Apr2025 18:55:19.182] [main/ERROR] [com.telepathicgrunt.the_bumblezone.Bumblezone/]: Trade result entry is set to required but minecraft:oak_branch item does not exist.
-[04Apr2025 18:55:19.192] [main/ERROR] [com.telepathicgrunt.the_bumblezone.Bumblezone/]: Trade result entry is set to required but minecraft:oak_shrub item does not exist.
-[04Apr2025 18:55:19.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[04Apr2025 18:55:19.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Apr2025 18:55:19.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04Apr2025 18:55:19.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Apr2025 18:55:19.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Apr2025 18:55:19.624] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Apr2025 18:55:19.695] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Apr2025 18:55:19.695] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Apr2025 18:55:19.696] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Apr2025 18:55:19.696] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Apr2025 18:55:19.717] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
-[04Apr2025 18:55:19.718] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[04Apr2025 18:55:19.719] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for hangglider
-[04Apr2025 18:55:19.721] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
-[04Apr2025 18:55:19.903] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem aether:the_aether
-[04Apr2025 18:55:20.318] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[04Apr2025 18:55:20.319] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[04Apr2025 18:55:20.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Apr2025 18:55:21.077] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
-[04Apr2025 18:55:21.082] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
-[04Apr2025 18:55:21.091] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
-[04Apr2025 18:55:28.708] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "blueprint:modded".
-[04Apr2025 18:55:28.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Apr2025 18:55:33.329] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 18:55:33.330] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 18:55:33.331] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 18:55:33.332] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 18:55:33.332] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 18:55:33.333] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 18:55:33.334] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 18:55:33.335] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 18:55:33.336] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 18:55:33.337] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Apr2025 18:55:33.713] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[04Apr2025 18:55:34.211] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
-[04Apr2025 18:55:34.411] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5701 ms
-[04Apr2025 18:55:34.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.706s)! For help, type "help"
-[04Apr2025 18:55:34.484] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Apr2025 18:55:34.524] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[04Apr2025 18:55:34.534] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[04Apr2025 18:55:34.534] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[04Apr2025 18:55:34.693] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 203929 bytes (in 21 string chunks with the size of 10000)
-[04Apr2025 18:55:34.693] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[04Apr2025 18:55:34.695] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[04Apr2025 18:55:34.706] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[04Apr2025 18:56:00.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Z3nSSky[/100.99.151.29:50557] logged in with entity id 732 at (-910.2124730120178, -38.0, 186.72578728987224)
-[04Apr2025 18:56:00.081] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Z3nSSky
-[04Apr2025 18:56:00.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Z3nSSky
-[04Apr2025 18:56:00.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Z3nSSky
-[04Apr2025 18:56:00.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Z3nSSky
-[04Apr2025 18:56:00.089] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Z3nSSky
-[04Apr2025 18:56:00.093] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Z3nSSky
-[04Apr2025 18:56:00.093] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Z3nSSky
-[04Apr2025 18:56:00.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky joined the game
-[04Apr2025 18:56:03.163] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Z3nSSky (18)
-[04Apr2025 18:56:03.165] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Z3nSSky
-[04Apr2025 18:56:03.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
-[04Apr2025 18:56:06.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 76957267-1930-376a-893a-2f677d544985
-[04Apr2025 18:56:07.266] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 76957267-1930-376a-893a-2f677d544985
-[04Apr2025 18:56:07.271] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Z3nSSky (76957267-1930-376a-893a-2f677d544985) successfully connected to voice chat
-[04Apr2025 18:58:36.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has reached the goal [Strong or Careful]
-[04Apr2025 18:58:36.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky tried to swim in lava
-[04Apr2025 18:58:36.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Your First Grave]
-[04Apr2025 18:58:36.408] [Server thread/INFO] [tombstone/]: The player Z3nSSky has successfully been saved
-[04Apr2025 18:58:42.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has reached the goal [Here They Come]
-[04Apr2025 18:58:49.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky fell from a high place
-[04Apr2025 18:58:49.438] [Server thread/INFO] [tombstone/]: The player Z3nSSky has successfully been saved
-[04Apr2025 19:01:13.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: universo25abri[/100.112.84.103:55309] logged in with entity id 2481 at (-4.5, 79.0, -8.5)
-[04Apr2025 19:01:13.078] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to universo25abri
-[04Apr2025 19:01:13.078] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to universo25abri
-[04Apr2025 19:01:13.079] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to universo25abri
-[04Apr2025 19:01:13.079] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to universo25abri
-[04Apr2025 19:01:13.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to universo25abri
-[04Apr2025 19:01:13.085] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to universo25abri
-[04Apr2025 19:01:13.086] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to universo25abri
-[04Apr2025 19:01:13.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri joined the game
-[04Apr2025 19:01:13.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has reached the goal [Easter]
-[04Apr2025 19:01:13.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Ice and Fire]
-[04Apr2025 19:01:13.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [MORE ORES!!!]
-[04Apr2025 19:01:14.585] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of universo25abri (18)
-[04Apr2025 19:01:14.586] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to universo25abri
-[04Apr2025 19:01:27.801] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 09039b30-3dd0-3f40-862d-014a8ac58cf4
-[04Apr2025 19:01:28.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 09039b30-3dd0-3f40-862d-014a8ac58cf4
-[04Apr2025 19:01:28.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player universo25abri (09039b30-3dd0-3f40-862d-014a8ac58cf4) successfully connected to voice chat
-[04Apr2025 19:04:31.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Easter Egg Searcher]
+[04Apr2025 19:48:48.305] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Apr2025 19:48:50.218] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[04Apr2025 19:48:50.219] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[04Apr2025 19:48:50.485] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER
+[04Apr2025 19:48:50.490] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/ParticleEngine (java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER)
+[04Apr2025 19:48:50.491] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.particle.ParticleEngine was not found the_bumblezone-common.mixins.json:client.ParticleEngineAccessor
+[04Apr2025 19:48:50.695] [main/WARN] [mixin/]: Error loading class: com/legacy/lost_aether/entity/AerwhaleKingEntity (java.lang.ClassNotFoundException: com.legacy.lost_aether.entity.AerwhaleKingEntity)
+[04Apr2025 19:48:51.089] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04Apr2025 19:49:00.165] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[04Apr2025 19:49:01.598] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[04Apr2025 19:49:01.679] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[04Apr2025 19:49:01.680] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[04Apr2025 19:49:01.697] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[04Apr2025 19:49:01.698] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[04Apr2025 19:49:02.818] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for hangglider:main
+[04Apr2025 19:49:03.152] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[04Apr2025 19:49:03.532] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[04Apr2025 19:49:03.571] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[04Apr2025 19:49:03.726] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[04Apr2025 19:49:08.192] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[04Apr2025 19:49:08.207] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[04Apr2025 19:49:08.212] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[04Apr2025 19:49:08.216] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[04Apr2025 19:49:08.654] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[04Apr2025 19:49:08.656] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[04Apr2025 19:49:08.656] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[04Apr2025 19:49:08.879] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[04Apr2025 19:49:08.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[04Apr2025 19:49:09.055] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[04Apr2025 19:49:09.064] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[04Apr2025 19:49:09.077] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[04Apr2025 19:49:09.097] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[04Apr2025 19:49:09.097] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[04Apr2025 19:49:09.097] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[04Apr2025 19:49:09.161] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[04Apr2025 19:49:09.161] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[04Apr2025 19:49:09.162] [main/INFO] [terrablender/]: Registered region aether:the_aether to index 0 for type THE_AETHER
+[04Apr2025 19:49:09.162] [main/INFO] [terrablender/]: Registered region yungscavebiomes:overworld to index 1 for type OVERWORLD
+[04Apr2025 19:49:09.216] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 2 for type OVERWORLD
+[04Apr2025 19:49:09.216] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 3 for type OVERWORLD
+[04Apr2025 19:49:09.217] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[04Apr2025 19:49:09.273] [main/INFO] [terrablender/]: Registered region deep_aether:deep_aether to index 1 for type THE_AETHER
+[04Apr2025 19:49:09.273] [main/INFO] [terrablender/]: Registered region deep_aether:rare to index 2 for type THE_AETHER
+[04Apr2025 19:49:09.295] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[04Apr2025 19:49:09.298] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[04Apr2025 19:49:09.307] [modloading-worker-0/INFO] [com.hexagram2021.mod_whitelist.common.utils.MWLogger/]: Mod Whitelist v1.1.0 is protecting your server!
+[04Apr2025 19:49:09.307] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[04Apr2025 19:49:09.308] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[04Apr2025 19:49:09.422] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
+[04Apr2025 19:49:09.429] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[04Apr2025 19:49:09.451] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[04Apr2025 19:49:09.476] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[04Apr2025 19:49:09.478] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[04Apr2025 19:49:09.480] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[04Apr2025 19:49:09.544] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[04Apr2025 19:49:09.848] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[04Apr2025 19:49:09.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[04Apr2025 19:49:10.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.2-neoforge Target: null
+[04Apr2025 19:49:10.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[04Apr2025 19:49:10.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[04Apr2025 19:49:10.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04Apr2025 19:49:10.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[04Apr2025 19:49:10.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[04Apr2025 19:49:10.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[04Apr2025 19:49:10.644] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[04Apr2025 19:49:10.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[04Apr2025 19:49:10.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[04Apr2025 19:49:10.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.28 Target: 1.20.1-2.5.29
+[04Apr2025 19:49:10.995] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Starting version check at https://nerdthened.github.io/More-bows/update-modern.json
+[04Apr2025 19:49:11.117] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morebows] Found status: UP_TO_DATE Current: 1.0.13 Target: null
+[04Apr2025 19:49:11.117] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtavernsstrongholdrework] Starting version check at https://api.modrinth.com/updates/rYocd2LE/forge_updates.json
+[04Apr2025 19:49:11.318] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtavernsstrongholdrework] Found status: OUTDATED Current: 1 Target: 1+mod
+[04Apr2025 19:49:11.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/hangglider.json
+[04Apr2025 19:49:11.328] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hangglider] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[04Apr2025 19:49:11.329] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[04Apr2025 19:49:11.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[04Apr2025 19:49:11.486] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[04Apr2025 19:49:11.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
+[04Apr2025 19:49:11.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[04Apr2025 19:49:11.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[04Apr2025 19:49:11.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[04Apr2025 19:49:11.681] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.29 Target: null
+[04Apr2025 19:49:11.682] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
+[04Apr2025 19:49:11.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: OUTDATED Current: 3.9.0 Target: 3.9.2
+[04Apr2025 19:49:11.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[04Apr2025 19:49:11.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
+[04Apr2025 19:49:15.163] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04Apr2025 19:49:19.502] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23257!/assets/.mcassetsroot' uses unexpected schema
+[04Apr2025 19:49:19.503] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerPrueba/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23257!/data/.mcassetsroot' uses unexpected schema
+[04Apr2025 19:49:19.679] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[04Apr2025 19:49:29.266] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 0 modifier groups
+[04Apr2025 19:49:29.498] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[04Apr2025 19:49:29.509] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[04Apr2025 19:49:29.576] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[04Apr2025 19:49:29.594] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[04Apr2025 19:49:29.633] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[04Apr2025 19:49:29.661] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[04Apr2025 19:49:29.662] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[04Apr2025 19:49:29.666] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[04Apr2025 19:49:29.670] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 28 recipes
+[04Apr2025 19:49:29.671] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 0 modifier groups
+[04Apr2025 19:49:29.963] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5469 advancements
+[04Apr2025 19:49:29.969] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[04Apr2025 19:49:29.969] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[04Apr2025 19:49:29.969] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[04Apr2025 19:49:29.970] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[04Apr2025 19:49:29.984] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[04Apr2025 19:49:29.987] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[04Apr2025 19:49:29.987] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[04Apr2025 19:49:29.987] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[04Apr2025 19:49:29.994] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[04Apr2025 19:49:29.996] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[04Apr2025 19:49:30.022] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 18 curio slots
+[04Apr2025 19:49:30.032] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
+[04Apr2025 19:49:33.576] [main/ERROR] [com.telepathicgrunt.the_bumblezone.Bumblezone/]: Trade result entry is set to required but minecraft:oak_branch item does not exist.
+[04Apr2025 19:49:33.589] [main/ERROR] [com.telepathicgrunt.the_bumblezone.Bumblezone/]: Trade result entry is set to required but minecraft:oak_shrub item does not exist.
+[04Apr2025 19:49:33.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[04Apr2025 19:49:33.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Apr2025 19:49:33.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Apr2025 19:49:33.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Apr2025 19:49:34.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Apr2025 19:49:34.061] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Apr2025 19:49:34.163] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04Apr2025 19:49:34.163] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04Apr2025 19:49:34.164] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04Apr2025 19:49:34.165] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04Apr2025 19:49:34.202] [Server thread/INFO] [Puzzles Lib/]: Loading server config for hangglider
+[04Apr2025 19:49:34.207] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[04Apr2025 19:49:34.208] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[04Apr2025 19:49:34.211] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for hangglider
+[04Apr2025 19:49:34.469] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem aether:the_aether
+[04Apr2025 19:49:34.470] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[04Apr2025 19:49:35.006] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[04Apr2025 19:49:35.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Apr2025 19:49:36.043] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[04Apr2025 19:49:36.047] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity from class com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile
+[04Apr2025 19:49:36.053] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[04Apr2025 19:49:45.046] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "blueprint:modded".
+[04Apr2025 19:49:45.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Apr2025 19:49:46.545] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:46.553] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:46.553] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:46.554] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:47.140] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:47.636] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:48.149] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:48.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:49.053] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:49.612] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:50.051] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Apr2025 19:49:50.549] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[04Apr2025 19:49:51.049] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[04Apr2025 19:49:51.548] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[04Apr2025 19:49:52.050] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[04Apr2025 19:49:52.347] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7299 ms
+[04Apr2025 19:49:52.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.168s)! For help, type "help"
+[04Apr2025 19:49:52.541] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Apr2025 19:49:52.593] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[04Apr2025 19:49:52.600] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[04Apr2025 19:49:52.600] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[04Apr2025 19:49:52.788] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 203929 bytes (in 21 string chunks with the size of 10000)
+[04Apr2025 19:49:52.790] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[04Apr2025 19:49:52.792] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[04Apr2025 19:49:52.804] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[04Apr2025 19:50:01.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Z3nSSky[/100.99.151.29:51794] logged in with entity id 748 at (168.23087456386565, 71.0, -332.57837656193743)
+[04Apr2025 19:50:01.969] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Z3nSSky
+[04Apr2025 19:50:01.971] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Z3nSSky
+[04Apr2025 19:50:01.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Z3nSSky
+[04Apr2025 19:50:01.974] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Z3nSSky
+[04Apr2025 19:50:01.983] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Z3nSSky
+[04Apr2025 19:50:01.995] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Z3nSSky
+[04Apr2025 19:50:01.996] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Z3nSSky
+[04Apr2025 19:50:02.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky joined the game
+[04Apr2025 19:50:03.843] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Z3nSSky (18)
+[04Apr2025 19:50:03.846] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Z3nSSky
+[04Apr2025 19:50:08.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 76957267-1930-376a-893a-2f677d544985
+[04Apr2025 19:50:09.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 76957267-1930-376a-893a-2f677d544985
+[04Apr2025 19:50:09.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Z3nSSky (76957267-1930-376a-893a-2f677d544985) successfully connected to voice chat
+[04Apr2025 19:50:12.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: universo25abri[/100.112.84.103:56458] logged in with entity id 994 at (170.39073018904887, 71.0, -332.41159632785076)
+[04Apr2025 19:50:12.900] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to universo25abri
+[04Apr2025 19:50:12.900] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to universo25abri
+[04Apr2025 19:50:12.901] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to universo25abri
+[04Apr2025 19:50:12.902] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to universo25abri
+[04Apr2025 19:50:12.906] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to universo25abri
+[04Apr2025 19:50:12.912] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to universo25abri
+[04Apr2025 19:50:12.913] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to universo25abri
+[04Apr2025 19:50:12.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri joined the game
+[04Apr2025 19:50:14.154] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of universo25abri (18)
+[04Apr2025 19:50:14.155] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to universo25abri
+[04Apr2025 19:50:21.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 09039b30-3dd0-3f40-862d-014a8ac58cf4
+[04Apr2025 19:50:22.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 09039b30-3dd0-3f40-862d-014a8ac58cf4
+[04Apr2025 19:50:22.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player universo25abri (09039b30-3dd0-3f40-862d-014a8ac58cf4) successfully connected to voice chat
+[04Apr2025 19:51:21.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Sweet Dreams]
+[04Apr2025 19:57:25.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Monster Hunter]
+[04Apr2025 19:59:25.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Bewitched]
+[04Apr2025 19:59:27.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Bewitched]
+[04Apr2025 19:59:52.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Ambush]
+[04Apr2025 19:59:58.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Suit Up]
+[04Apr2025 20:00:35.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Acquire Hardware]
+[04Apr2025 20:01:20.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was slain by Hydra
+[04Apr2025 20:01:20.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Your First Grave]
+[04Apr2025 20:01:20.556] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 20:01:23.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky was slain by Hydra
+[04Apr2025 20:01:24.539] [Server thread/INFO] [tombstone/]: The player Z3nSSky has successfully been saved
+[04Apr2025 20:01:40.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has reached the goal [Here They Come]
+[04Apr2025 20:01:45.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was slain by Hydra
+[04Apr2025 20:01:45.978] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 20:02:02.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has reached the goal [Chain Death]
+[04Apr2025 20:02:02.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky was slain by Hydra
+[04Apr2025 20:02:03.297] [Server thread/INFO] [tombstone/]: The player Z3nSSky has successfully been saved
+[04Apr2025 20:02:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Knowledge of Death]
+[04Apr2025 20:02:11.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has reached the goal [Chain Death]
+[04Apr2025 20:02:11.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was slain by Hydra
+[04Apr2025 20:02:11.083] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 20:02:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was slain by Hydra
+[04Apr2025 20:02:29.328] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 20:04:16.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Z3nSSky> m
+[04Apr2025 20:04:34.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Mutual Aid]
+[04Apr2025 20:04:41.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Not Today, Thank You]
+[04Apr2025 20:04:57.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Herc was on a Roll!]
+[04Apr2025 20:07:48.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Knowledge raises the soul]
+[04Apr2025 20:08:06.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Knowledge raises the soul]
+[04Apr2025 20:09:34.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Distant Dreamer]
+[04Apr2025 20:09:42.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Distant Dreamer]
+[04Apr2025 20:11:50.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Ashes 'n Bones]
+[04Apr2025 20:12:44.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [A Strange Grave Dust]
+[04Apr2025 20:13:34.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Easter Egg Searcher]
+[04Apr2025 20:13:54.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Take Aim]
+[04Apr2025 20:14:38.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Ashes 'n Bones]
+[04Apr2025 20:15:23.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was slain by Skeleton
+[04Apr2025 20:15:23.125] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 20:17:24.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Diamonds!]
+[04Apr2025 20:18:43.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Cover Me with Diamonds]
+[04Apr2025 20:18:55.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Cover Me with Diamonds]
+[04Apr2025 20:21:39.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was slain by Skeleton
+[04Apr2025 20:21:39.826] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 20:21:39.882] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Apr2025 20:21:39.883] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[04Apr2025 20:21:39.883] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[04Apr2025 20:21:39.883] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[04Apr2025 20:21:39.884] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[04Apr2025 20:25:02.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has reached the goal [Bone Crusher]
+[04Apr2025 20:32:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Cooked Porkchop] to 2
