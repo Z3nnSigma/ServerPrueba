@@ -128,9 +128,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-04-04 21:44:59 +0000",
       "log_spam_fixer": "2025-03-26 19:44:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -1059,6 +1060,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-26 21:57:52 +0000",
       "minecraft:hoglin": "2025-04-04 21:23:51 +0000",
+      "minecraft:vindicator": "2025-04-04 21:42:36 +0000",
       "minecraft:spider": "2025-04-04 20:16:57 +0000",
       "minecraft:creeper": "2025-04-04 20:11:29 +0000",
       "minecraft:slime": "2025-04-04 20:11:32 +0000",
@@ -3061,6 +3063,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-04 21:42:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-04 21:03:31 +0000"
@@ -3112,6 +3120,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-04 20:55:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everdawn": "2025-04-04 21:40:12 +0000"
     },
     "done": true
   },
@@ -3241,6 +3255,12 @@
     },
     "done": true
   },
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2025-04-04 21:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-04-04 21:02:41 +0000"
@@ -3292,6 +3312,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-04 21:01:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2025-04-04 21:40:12 +0000"
     },
     "done": true
   },
@@ -3541,6 +3567,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-04-04 21:35:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_trapdoor": {
     "criteria": {
       "has_item": "2025-04-04 21:28:07 +0000"
@@ -3550,6 +3582,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-04 21:01:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everdawn_blinding_dungeon": "2025-04-04 21:41:17 +0000"
     },
     "done": true
   },
@@ -3991,6 +4029,12 @@
     },
     "done": true
   },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2025-04-04 21:41:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-04-04 21:02:41 +0000"
@@ -4009,6 +4053,12 @@
     },
     "done": true
   },
+  "blue_skies:everdawn/kill_bug": {
+    "criteria": {
+      "kill_nyctofly": "2025-04-04 21:40:53 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2025-04-04 21:30:42 +0000"
@@ -4026,6 +4076,12 @@
       "has_item": "2025-04-04 21:02:33 +0000"
     },
     "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everdawn": "2025-04-04 21:40:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/polished_blackstone_wall": {
     "criteria": {

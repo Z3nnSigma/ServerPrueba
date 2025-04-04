@@ -6623,3 +6623,52 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Apr2025 21:37:07.927] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in blue_skies:everbright
 [04Apr2025 21:37:26.918] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in aether:the_aether
 [04Apr2025 21:38:29.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [What a Deal!]
+[04Apr2025 21:39:59.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 21:39:59.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Apr2025 21:40:11.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Forever Dawn?]
+[04Apr2025 21:40:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Forever Dawn?]
+[04Apr2025 21:40:26.908] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in deeperdarker:otherside
+[04Apr2025 21:40:45.915] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in aether:the_aether
+[04Apr2025 21:41:17.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has reached the goal [The Wizard's Tower]
+[04Apr2025 21:41:21.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has reached the goal [The Wizard's Tower]
+[04Apr2025 21:41:45.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [1 Down, 3 to go]
+[04Apr2025 21:41:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Ambush]
+[04Apr2025 21:42:07.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was slain by Vindicator
+[04Apr2025 21:42:07.009] [Server thread/DEBUG] [tombstone/]: A new grave of the player universo25abri was created at position [x:49, y:93, z:-1861, dim:blue_skies:everdawn]
+[04Apr2025 21:42:07.015] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 21:42:08.615] [Server thread/DEBUG] [twilightforest/]: Player universo25abri (09039b30-3dd0-3f40-862d-014a8ac58cf4) respawned and received items held in storage
+[04Apr2025 21:42:13.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Local Brewery]
+[04Apr2025 21:42:19.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[04Apr2025 21:43:05.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [1 Down, 3 to go]
+[04Apr2025 21:44:05.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Spawned a(n) Alchemist scaled to 1 player(s). The difficulty ID is BRONZE. The position is BlockPos{x=49, y=116, z=-1855}
+[04Apr2025 21:44:59.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Apr2025 21:44:59.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Apr2025 21:45:08.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was slain by Z3nSSky
+[04Apr2025 21:45:08.682] [Server thread/DEBUG] [tombstone/]: A new grave of the player universo25abri was created at position [x:49, y:108, z:-1858, dim:blue_skies:everdawn]
+[04Apr2025 21:45:08.688] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[04Apr2025 21:45:08.688] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[04Apr2025 21:45:08.688] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[04Apr2025 21:45:08.689] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[04Apr2025 21:45:08.689] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[04Apr2025 21:45:08.689] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 21:45:08.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: universo25abri moved wrongly!
+[04Apr2025 21:45:10.076] [Server thread/DEBUG] [twilightforest/]: Player universo25abri (09039b30-3dd0-3f40-862d-014a8ac58cf4) respawned and received items held in storage
+[04Apr2025 21:45:18.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[04Apr2025 21:45:59.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Who You Gonna Call?]
+[04Apr2025 21:46:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 49.500000, 108.500000, -1857.500000]
+[04Apr2025 21:46:11.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[04Apr2025 21:46:46.915] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[04Apr2025 21:47:32.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was killed by Alchemist using magic
+[04Apr2025 21:47:32.564] [Server thread/DEBUG] [tombstone/]: A new grave of the player universo25abri was created at position [x:49, y:108, z:-1858, dim:blue_skies:everdawn]
+[04Apr2025 21:47:32.566] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 21:47:32.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: universo25abri moved too quickly! 5.296819753345453,7.0,8.689383161009346
+[04Apr2025 21:47:34.387] [Server thread/DEBUG] [twilightforest/]: Player universo25abri (09039b30-3dd0-3f40-862d-014a8ac58cf4) respawned and received items held in storage
+[04Apr2025 21:47:45.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[04Apr2025 21:47:52.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 51.500000, 107.500000, -1856.500000]
+[04Apr2025 21:48:42.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri burned to death
+[04Apr2025 21:48:42.417] [Server thread/DEBUG] [tombstone/]: A new grave of the player universo25abri was created at position [x:49, y:108, z:-1858, dim:blue_skies:everdawn]
+[04Apr2025 21:48:42.417] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 21:48:44.139] [Server thread/DEBUG] [twilightforest/]: Player universo25abri (09039b30-3dd0-3f40-862d-014a8ac58cf4) respawned and received items held in storage
+[04Apr2025 21:49:00.916] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in deeperdarker:otherside
+[04Apr2025 21:49:03.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[04Apr2025 21:49:08.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 55.500000, 116.500000, -1857.500000]
