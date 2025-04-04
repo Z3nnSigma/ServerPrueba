@@ -394,3 +394,35 @@
 [04Apr2025 20:48:35.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Take Aim]
 [04Apr2025 20:48:43.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [The Lighthouse]
 [04Apr2025 20:48:46.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [The Lighthouse]
+[04Apr2025 20:51:36.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3795ms or 75 ticks behind
+[04Apr2025 20:53:55.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was slain by Skeleton
+[04Apr2025 20:53:55.921] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 21:08:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:enchanted_book_unbreaking'
+[04Apr2025 21:08:30.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give @a enchanted_book_unbreaking 3<--[HERE]
+[04Apr2025 21:09:15.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: Z3n
+[04Apr2025 21:09:15.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...memode Z3n/gamemode Z3nSSky creative<--[HERE]
+[04Apr2025 21:09:26.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[04Apr2025 21:09:36.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Z3nSSky's game mode to Creative Mode
+[04Apr2025 21:10:02.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Z3nSSky's game mode to Survival Mode
+[04Apr2025 21:14:18.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3394ms or 67 ticks behind
+[04Apr2025 21:14:38.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [A Dirty Return]
+[04Apr2025 21:19:46.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Z3nSSky a server operator
+[04Apr2025 21:19:46.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Z3nSSky a server operator
+[04Apr2025 21:20:12.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made universo25abry a server operator
+[04Apr2025 21:20:31.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[04Apr2025 21:20:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Apr2025 21:20:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri<--[HERE]
+[04Apr2025 21:21:36.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Bonfire Lit]
+[04Apr2025 21:21:58.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Gave 1 [Ender Dragon Spawn Egg] to universo25abri]
+[04Apr2025 21:22:48.698] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[04Apr2025 21:22:48.736] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[04Apr2025 21:22:56.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[04Apr2025 21:24:03.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Rusted Root]
+[04Apr2025 21:24:04.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Rusted Root]
+[04Apr2025 21:26:40.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[04Apr2025 21:30:37.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Dragonslayer]
+[04Apr2025 21:34:32.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 80.500000, 122.500000, -1027.500000]
+[04Apr2025 21:35:35.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[04Apr2025 21:36:21.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 140.500000, 84.500000, -2003.500000]
+[04Apr2025 21:36:24.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[04Apr2025 21:38:29.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [What a Deal!]
