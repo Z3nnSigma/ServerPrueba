@@ -459,3 +459,22 @@
 [04Apr2025 21:48:42.417] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
 [04Apr2025 21:49:03.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
 [04Apr2025 21:49:08.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 55.500000, 116.500000, -1857.500000]
+[04Apr2025 21:49:35.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Gave 1 [Ender Pearl] to universo25abri]
+[04Apr2025 21:49:43.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [The Most Useful Key]
+[04Apr2025 21:49:47.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has reached the goal [A Fast Comeback]
+[04Apr2025 21:50:20.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has completed the challenge [Potent Opponent!]
+[04Apr2025 21:50:20.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has completed the challenge [Potent Opponent!]
+[04Apr2025 21:50:27.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was killed by Alchemist using magic
+[04Apr2025 21:50:27.066] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 21:50:45.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Gave 1 [Ender Pearl] to universo25abri]
+[04Apr2025 21:51:11.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Light Up The World!]
+[04Apr2025 21:51:11.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [A Little Hot Rod Red]
+[04Apr2025 21:51:21.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Quite The Boost]
+[04Apr2025 21:52:59.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [A New Dawn]
+[04Apr2025 21:53:58.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Quite The Boost]
+[04Apr2025 21:58:28.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: universo25abri lost connection: Disconnected
+[04Apr2025 21:58:28.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri left the game
+[04Apr2025 21:58:28.366] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client universo25abri
+[04Apr2025 21:58:32.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3nSSky lost connection: Disconnected
+[04Apr2025 21:58:32.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky left the game
+[04Apr2025 21:58:32.713] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Z3nSSky
