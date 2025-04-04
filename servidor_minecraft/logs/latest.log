@@ -352,3 +352,45 @@
 [04Apr2025 20:21:39.884] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
 [04Apr2025 20:25:02.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has reached the goal [Bone Crusher]
 [04Apr2025 20:32:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Cooked Porkchop] to 2
+[04Apr2025 20:44:56.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has reached the goal [Bone Crusher]
+[04Apr2025 20:46:38.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: universo25abri was kicked for floating too long!
+[04Apr2025 20:46:38.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: universo25abri lost connection: Disconnected
+[04Apr2025 20:46:38.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri left the game
+[04Apr2025 20:46:38.078] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client universo25abri
+[04Apr2025 20:46:38.119] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Apr2025 20:46:57.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: universo25abri[/100.112.84.103:57677] logged in with entity id 17515 at (13.082062998651862, 86.1601712346607, -919.3996538922362)
+[04Apr2025 20:46:57.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to universo25abri
+[04Apr2025 20:46:57.490] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to universo25abri
+[04Apr2025 20:46:57.490] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to universo25abri
+[04Apr2025 20:46:57.491] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to universo25abri
+[04Apr2025 20:46:57.492] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to universo25abri
+[04Apr2025 20:46:57.495] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to universo25abri
+[04Apr2025 20:46:57.495] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to universo25abri
+[04Apr2025 20:46:57.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri joined the game
+[04Apr2025 20:46:57.720] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of universo25abri (18)
+[04Apr2025 20:46:57.721] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to universo25abri
+[04Apr2025 20:47:03.220] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 09039b30-3dd0-3f40-862d-014a8ac58cf4
+[04Apr2025 20:47:03.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri fell from a high place
+[04Apr2025 20:47:03.721] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[04Apr2025 20:47:04.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 09039b30-3dd0-3f40-862d-014a8ac58cf4
+[04Apr2025 20:47:04.222] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player universo25abri (09039b30-3dd0-3f40-862d-014a8ac58cf4) successfully connected to voice chat
+[04Apr2025 20:47:07.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3nSSky lost connection: Disconnected
+[04Apr2025 20:47:07.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky left the game
+[04Apr2025 20:47:07.121] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Z3nSSky
+[04Apr2025 20:47:14.392] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Z3nSSky[/100.99.151.29:52094] logged in with entity id 17702 at (9.80590896889374, 89.23527968815392, -919.5263438062547)
+[04Apr2025 20:47:14.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Z3nSSky
+[04Apr2025 20:47:14.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Z3nSSky
+[04Apr2025 20:47:14.393] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Z3nSSky
+[04Apr2025 20:47:14.394] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Z3nSSky
+[04Apr2025 20:47:14.395] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Z3nSSky
+[04Apr2025 20:47:14.397] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Z3nSSky
+[04Apr2025 20:47:14.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Z3nSSky
+[04Apr2025 20:47:14.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky joined the game
+[04Apr2025 20:47:15.170] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Z3nSSky (18)
+[04Apr2025 20:47:15.171] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Z3nSSky
+[04Apr2025 20:47:18.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 76957267-1930-376a-893a-2f677d544985
+[04Apr2025 20:47:19.565] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 76957267-1930-376a-893a-2f677d544985
+[04Apr2025 20:47:19.566] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Z3nSSky (76957267-1930-376a-893a-2f677d544985) successfully connected to voice chat
+[04Apr2025 20:48:35.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Take Aim]
+[04Apr2025 20:48:43.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [The Lighthouse]
+[04Apr2025 20:48:46.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [The Lighthouse]

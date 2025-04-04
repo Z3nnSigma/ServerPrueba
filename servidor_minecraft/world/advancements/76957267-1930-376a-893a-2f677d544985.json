@@ -2183,6 +2183,84 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 20:46:53 +0000"
+    },
+    "done": false
+  },
+  "morebows:recipes/iron_bow": {
+    "criteria": {
+      "has_bow": "2025-04-04 20:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-04 19:52:10 +0000"
@@ -2297,6 +2375,12 @@
     },
     "done": true
   },
+  "morebows:recipes/stone_bow": {
+    "criteria": {
+      "has_bow": "2025-04-04 20:35:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2025-04-04 20:00:16 +0000"
@@ -2366,6 +2450,12 @@
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-04-04 20:26:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-04-04 20:35:29 +0000"
     },
     "done": true
   },
@@ -2495,9 +2585,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-04 20:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-04-04 20:44:27 +0000"
     },
     "done": true
   },
@@ -2675,6 +2777,12 @@
     },
     "done": true
   },
+  "morebows:recipes/gold_bow": {
+    "criteria": {
+      "has_bow": "2025-04-04 20:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-04-04 20:11:50 +0000"
@@ -2690,6 +2798,12 @@
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-04-04 20:02:02 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/diamond_bow": {
+    "criteria": {
+      "has_bow": "2025-04-04 20:35:29 +0000"
     },
     "done": true
   },
@@ -2801,6 +2915,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-04-04 20:38:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-04-04 20:25:02 +0000"
@@ -2882,6 +3002,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-04 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wooden_sword_repairing": {
+    "criteria": {
+      "has_wooden_sword": "2025-04-04 20:42:58 +0000"
     },
     "done": true
   },
