@@ -6248,3 +6248,37 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Apr2025 21:47:18.383] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
 [05Apr2025 21:47:20.449] [Server thread/DEBUG] [twilightforest/]: Player universo25abri (09039b30-3dd0-3f40-862d-014a8ac58cf4) respawned and received items held in storage
 [05Apr2025 21:47:36.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 296.500000, 76.500000, -415.500000]
+[05Apr2025 21:49:45.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 311.500000, 50.500000, -116.500000]
+[05Apr2025 21:49:53.779] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in aether:the_aether
+[05Apr2025 21:49:57.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 163.500000, 47.500000, -301.500000]
+[05Apr2025 21:50:14.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 21:50:14.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 21:50:38.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 389.500000, 48.500000, -181.500000]
+[05Apr2025 21:50:39.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Those Were the Days]
+[05Apr2025 21:50:57.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 404.500000, 36.500000, -231.500000]
+[05Apr2025 21:51:17.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[05Apr2025 21:52:36.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Through the Gauntlet]
+[05Apr2025 21:52:53.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Hidden in the Depths]
+[05Apr2025 21:53:08.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Hidden in the Depths]
+[05Apr2025 21:53:23.783] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in the_bumblezone:the_bumblezone
+[05Apr2025 21:54:22.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 21.500000, 94.500000, -251.500000]
+[05Apr2025 21:54:25.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to universo25abri]
+[05Apr2025 21:55:14.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 21:55:14.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 21:55:27.784] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone
+[05Apr2025 21:59:14.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Hot Stuff]
+[05Apr2025 21:59:18.786] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[05Apr2025 22:00:14.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 22:00:14.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 22:02:04.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Voluntary Exile]
+[05Apr2025 22:02:35.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has reached the goal [Fortuitous Militia]
+[05Apr2025 22:02:40.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Voluntary Exile]
+[05Apr2025 22:02:58.782] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in blue_skies:everdawn
+[05Apr2025 22:03:59.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has reached the goal [Fortuitous Militia]
+[05Apr2025 22:04:18.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has completed the challenge [Hero of the Village]
+[05Apr2025 22:04:18.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has completed the challenge [Hero of the Village]
+[05Apr2025 22:05:14.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 22:05:14.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 22:07:02.781] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in undergarden:undergarden
+[05Apr2025 22:08:30.780] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[05Apr2025 22:09:03.782] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end

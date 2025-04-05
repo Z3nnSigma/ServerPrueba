@@ -717,6 +717,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "redstone_abyss": "2025-04-05 21:46:38 +0000",
       "bayou": "2025-04-04 19:57:46 +0000",
       "marsh": "2025-04-04 21:19:30 +0000",
       "willow_forest": "2025-04-04 19:08:40 +0000",
@@ -1059,7 +1060,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-05 22:02:35 +0000",
       "minecraft:skeleton": "2025-03-26 21:57:52 +0000",
+      "minecraft:ravager": "2025-04-05 22:04:16 +0000",
       "minecraft:hoglin": "2025-04-04 21:23:51 +0000",
       "minecraft:vindicator": "2025-04-04 21:42:36 +0000",
       "minecraft:spider": "2025-04-04 20:16:57 +0000",
@@ -1068,6 +1071,7 @@
       "minecraft:witch": "2025-04-04 19:59:52 +0000",
       "minecraft:wither_skeleton": "2025-04-04 20:34:01 +0000",
       "minecraft:husk": "2025-04-04 21:24:16 +0000",
+      "minecraft:enderman": "2025-04-05 21:49:21 +0000",
       "minecraft:zombie": "2025-03-26 21:17:15 +0000"
     },
     "done": false
@@ -4336,15 +4340,82 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-05 21:52:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "mycotoxic_undergrowth": "2025-04-05 21:43:15 +0000"
+      "mycotoxic_undergrowth": "2025-04-05 21:43:15 +0000",
+      "redstone_abyss": "2025-04-05 21:46:38 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-05 22:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-05 21:52:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-04-05 22:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-05 21:52:41 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_blazing_eye": "2025-04-05 21:52:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-04-05 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-05 21:45:30 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-04-05 21:52:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-05 21:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-05 21:45:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-05 21:52:41 +0000"
     },
     "done": true
   },
@@ -4354,9 +4425,39 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-04-05 21:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-05 21:52:53 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2025-04-05 21:44:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-05 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-04-05 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-05 21:52:41 +0000"
     },
     "done": true
   },
