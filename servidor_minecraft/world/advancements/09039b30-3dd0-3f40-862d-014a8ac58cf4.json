@@ -1004,9 +1004,11 @@
       "minecraft:spider": "2025-04-04 20:18:21 +0000",
       "minecraft:creeper": "2025-04-04 20:11:34 +0000",
       "minecraft:slime": "2025-04-04 20:11:53 +0000",
+      "minecraft:witch": "2025-04-05 22:24:03 +0000",
       "minecraft:wither_skeleton": "2025-04-04 20:28:04 +0000",
       "minecraft:husk": "2025-04-04 21:24:10 +0000",
       "minecraft:enderman": "2025-04-05 21:42:19 +0000",
+      "minecraft:vex": "2025-04-05 22:19:08 +0000",
       "minecraft:zombie": "2025-04-04 19:57:25 +0000"
     },
     "done": false
@@ -1019,7 +1021,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "swamp_village": "2025-04-04 19:59:25 +0000"
+      "swamp_village": "2025-04-04 19:59:25 +0000",
+      "illager_hideout": "2025-04-05 22:18:01 +0000"
     },
     "done": false
   },
@@ -3812,6 +3815,12 @@
   "blue_skies:recipes/building_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-04-05 21:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-05 22:22:20 +0000"
     },
     "done": true
   },

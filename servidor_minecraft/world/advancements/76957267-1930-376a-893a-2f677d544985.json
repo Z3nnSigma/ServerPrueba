@@ -721,6 +721,7 @@
       "bayou": "2025-04-04 19:57:46 +0000",
       "marsh": "2025-04-04 21:19:30 +0000",
       "willow_forest": "2025-04-04 19:08:40 +0000",
+      "rocky_reef": "2025-04-05 22:15:17 +0000",
       "scorching_caves": "2025-03-26 21:57:54 +0000",
       "grassy_beach": "2025-04-04 20:10:02 +0000",
       "rocky_meadow": "2025-03-26 21:18:52 +0000",
@@ -740,6 +741,7 @@
       "bayou": "2025-04-04 19:57:46 +0000",
       "marsh": "2025-04-04 21:19:30 +0000",
       "willow_forest": "2025-04-04 19:08:40 +0000",
+      "rocky_reef": "2025-04-05 22:15:17 +0000",
       "grassy_beach": "2025-04-04 20:10:02 +0000",
       "rocky_meadow": "2025-03-26 21:18:52 +0000",
       "magnolia_highlands": "2025-03-26 21:21:22 +0000",
@@ -1068,10 +1070,12 @@
       "minecraft:spider": "2025-04-04 20:16:57 +0000",
       "minecraft:creeper": "2025-04-04 20:11:29 +0000",
       "minecraft:slime": "2025-04-04 20:11:32 +0000",
+      "minecraft:evoker": "2025-04-05 22:19:57 +0000",
       "minecraft:witch": "2025-04-04 19:59:52 +0000",
       "minecraft:wither_skeleton": "2025-04-04 20:34:01 +0000",
       "minecraft:husk": "2025-04-04 21:24:16 +0000",
       "minecraft:enderman": "2025-04-05 21:49:21 +0000",
+      "minecraft:vex": "2025-04-05 22:19:08 +0000",
       "minecraft:zombie": "2025-03-26 21:17:15 +0000"
     },
     "done": false
@@ -2326,7 +2330,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "swamp_village": "2025-04-04 19:59:27 +0000"
+      "swamp_village": "2025-04-04 19:59:27 +0000",
+      "illager_hideout": "2025-04-05 22:17:25 +0000"
     },
     "done": false
   },
@@ -4377,6 +4382,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-04-05 22:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-05 22:02:40 +0000"
@@ -4389,9 +4400,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-05 22:21:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-04-05 22:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-05 22:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-05 22:17:19 +0000"
     },
     "done": true
   },
@@ -4407,9 +4436,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-05 22:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-05 22:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-04-05 21:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-05 22:21:23 +0000"
     },
     "done": true
   },
@@ -4479,6 +4526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-05 22:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-04-05 21:45:47 +0000"
@@ -4497,9 +4550,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-05 22:17:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-04-05 21:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-05 22:17:19 +0000"
     },
     "done": true
   },
@@ -4509,9 +4574,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-05 22:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-05 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-05 22:17:19 +0000"
     },
     "done": true
   },
@@ -4563,9 +4640,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-05 22:17:19 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2025-04-05 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-05 22:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-05 22:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-05 22:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-05 22:17:19 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-05 22:24:47 +0000"
     },
     "done": true
   },
@@ -4584,6 +4697,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-05 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-05 22:17:20 +0000"
     },
     "done": true
   },
