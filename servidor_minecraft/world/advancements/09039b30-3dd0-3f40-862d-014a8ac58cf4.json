@@ -3465,6 +3465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-05 21:52:25 +0000"
@@ -3474,6 +3480,12 @@
   "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
     "criteria": {
       "has_item": "2025-04-05 21:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
     },
     "done": true
   },
@@ -3492,6 +3504,12 @@
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-04-05 21:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-05 22:12:25 +0000"
     },
     "done": true
   },
@@ -3524,6 +3542,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-05 21:52:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
     },
     "done": true
   },
@@ -3575,6 +3599,30 @@
     },
     "done": true
   },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-04-05 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "outstanding_ores:obtain_talc": {
+    "criteria": {
+      "obtain_talc": "2025-04-05 22:10:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-05 21:59:14 +0000"
@@ -3593,9 +3641,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-04-05 21:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
     },
     "done": true
   },
@@ -3620,6 +3686,12 @@
   "bosses_of_mass_destruction:recipes/blast_amplifier": {
     "criteria": {
       "has_blazing_eye": "2025-04-05 21:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
     },
     "done": true
   },
@@ -3683,6 +3755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-05 22:12:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2025-04-05 21:35:39 +0000"
@@ -3698,6 +3776,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-05 21:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
     },
     "done": true
   },
@@ -3731,9 +3815,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2025-04-05 21:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
     },
     "done": true
   },
@@ -3779,9 +3875,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-04-05 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
     },
     "done": true
   },
@@ -3803,9 +3923,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:nether/gauntlet_defeat": {
     "criteria": {
       "bosses_of_mass_destruction:gauntlet": "2025-04-05 21:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
     },
     "done": true
   },
@@ -3836,6 +3968,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-04-05 21:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
     },
     "done": true
   },
@@ -3875,6 +4013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-04-05 21:50:39 +0000"
@@ -3884,6 +4028,12 @@
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
       "has_item": "2025-04-05 21:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-05 22:13:22 +0000"
     },
     "done": true
   },
@@ -3902,6 +4052,12 @@
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2025-04-05 21:36:17 +0000"
+    },
+    "done": true
+  },
+  "outstanding_ores:obtain_graphite": {
+    "criteria": {
+      "obtain_graphite": "2025-04-05 22:10:54 +0000"
     },
     "done": true
   },
