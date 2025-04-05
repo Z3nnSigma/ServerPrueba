@@ -6389,3 +6389,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Apr2025 22:46:53.934] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Z3nSSky
 [05Apr2025 22:46:53.934] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Z3nSSky
 [05Apr2025 22:49:39.768] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[05Apr2025 22:50:14.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 22:50:14.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 22:51:41.772] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[05Apr2025 22:51:56.771] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in blue_skies:everbright
+[05Apr2025 22:52:24.770] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in aether:the_aether
+[05Apr2025 22:52:29.768] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[05Apr2025 22:54:03.772] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in deeperdarker:otherside
+[05Apr2025 22:55:14.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 22:55:14.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 22:57:29.771] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in deeperdarker:otherside
+[05Apr2025 22:59:33.771] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
