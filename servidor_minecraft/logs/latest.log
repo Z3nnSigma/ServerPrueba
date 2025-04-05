@@ -305,3 +305,39 @@
 [05Apr2025 21:20:57.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player universo25abri (09039b30-3dd0-3f40-862d-014a8ac58cf4) successfully connected to voice chat
 [05Apr2025 21:27:10.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Ice Bucket Challenge]
 [05Apr2025 21:27:32.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Ice Bucket Challenge]
+[05Apr2025 21:36:17.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Isn't It Iron Pick]
+[05Apr2025 21:39:56.034] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/874, l='ServerLevel[world]', x=97.45, y=82.00, z=-2037.70] died, message: 'Leatherworker was slain by universo25abri'
+[05Apr2025 21:39:56.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Neighborhood Brawl]
+[05Apr2025 21:41:16.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [We Need to Go Deeper]
+[05Apr2025 21:41:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Incendium]
+[05Apr2025 21:41:20.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9736ms or 194 ticks behind
+[05Apr2025 21:41:21.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Strange Biomes]
+[05Apr2025 21:42:08.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [We Need to Go Deeper]
+[05Apr2025 21:42:08.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Incendium]
+[05Apr2025 21:42:09.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Strange Biomes]
+[05Apr2025 21:42:22.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3nSSky lost connection: Disconnected
+[05Apr2025 21:42:22.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky left the game
+[05Apr2025 21:42:22.949] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Z3nSSky
+[05Apr2025 21:42:23.003] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2025 21:42:23.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Z3nSSky[/100.99.151.29:51792] logged in with entity id 7189 at (23.5, 94.0, -250.11718507413661)
+[05Apr2025 21:42:23.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Z3nSSky
+[05Apr2025 21:42:23.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Z3nSSky
+[05Apr2025 21:42:23.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Z3nSSky
+[05Apr2025 21:42:23.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Z3nSSky
+[05Apr2025 21:42:23.012] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Z3nSSky
+[05Apr2025 21:42:23.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Z3nSSky
+[05Apr2025 21:42:23.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Z3nSSky
+[05Apr2025 21:42:23.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky joined the game
+[05Apr2025 21:42:23.906] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Z3nSSky (18)
+[05Apr2025 21:42:23.907] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Z3nSSky
+[05Apr2025 21:42:27.186] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 76957267-1930-376a-893a-2f677d544985
+[05Apr2025 21:42:28.188] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 76957267-1930-376a-893a-2f677d544985
+[05Apr2025 21:42:28.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Z3nSSky (76957267-1930-376a-893a-2f677d544985) successfully connected to voice chat
+[05Apr2025 21:44:31.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to universo25abri]
+[05Apr2025 21:45:23.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was slain by Zombified Piglin
+[05Apr2025 21:45:23.026] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[05Apr2025 21:45:47.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 234.500000, 115.500000, -403.500000]
+[05Apr2025 21:45:54.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to universo25abri]
+[05Apr2025 21:47:18.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri was impaled on a stalagmite
+[05Apr2025 21:47:18.383] [Server thread/INFO] [tombstone/]: The player universo25abri has successfully been saved
+[05Apr2025 21:47:36.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 296.500000, 76.500000, -415.500000]
