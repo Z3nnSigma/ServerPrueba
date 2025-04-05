@@ -374,3 +374,51 @@
 [05Apr2025 22:24:50.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -289.500000, 7.500000, -2004.500000]
 [05Apr2025 22:25:42.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -214.500000, -0.500000, -2000.500000]
 [05Apr2025 22:28:32.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has completed the challenge [Village Defender]
+[05Apr2025 22:29:43.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 136.500000, -1.500000, -2122.500000]
+[05Apr2025 22:29:52.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 183.500000, -15.500000, -2127.500000]
+[05Apr2025 22:30:04.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -268.500000, -7.500000, -2102.500000]
+[05Apr2025 22:30:54.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 87.500000, -15.500000, -2108.500000]
+[05Apr2025 22:31:13.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 116.500000, -23.500000, -1925.500000]
+[05Apr2025 22:31:56.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 225.500000, -31.500000, -1817.500000]
+[05Apr2025 22:32:10.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 379.500000, -35.500000, -1949.500000]
+[05Apr2025 22:32:25.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -185.500000, -6.500000, -1980.500000]
+[05Apr2025 22:32:50.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26839, l='ServerLevel[world]', x=-219.03, y=8.00, z=-2002.55] died, message: 'Villager was slain by Vindicator'
+[05Apr2025 22:32:53.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown item 'minecraft:cooked_porkchops'
+[05Apr2025 22:32:53.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...e Z3nSSky cooked_porkchops 62<--[HERE]
+[05Apr2025 22:33:25.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 62 [Cooked Porkchop] to Z3nSSky
+[05Apr2025 22:33:50.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -281.500000, -6.500000, -2051.500000]
+[05Apr2025 22:34:00.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Mend What Has Been Broken]
+[05Apr2025 22:35:01.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -212.500000, -16.500000, -2247.500000]
+[05Apr2025 22:35:57.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 264.500000, -16.500000, -1996.500000]
+[05Apr2025 22:36:06.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 442.500000, -13.500000, -1898.500000]
+[05Apr2025 22:36:29.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 330.500000, -26.500000, -1871.500000]
+[05Apr2025 22:36:44.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 216.500000, -36.500000, -1702.500000]
+[05Apr2025 22:36:44.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: universo25abri moved too quickly! -108.80000001192093,-10.5,166.06543948598687
+[05Apr2025 22:37:04.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 137.500000, -34.500000, -1588.500000]
+[05Apr2025 22:37:23.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[05Apr2025 22:37:26.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 464.500000, -10.500000, -1904.500000]
+[05Apr2025 22:37:50.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[05Apr2025 22:38:13.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [The Cutest Predator]
+[05Apr2025 22:38:57.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 464.500000, -12.500000, -1815.500000]
+[05Apr2025 22:39:06.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 344.500000, -19.500000, -1645.500000]
+[05Apr2025 22:39:06.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: universo25abri moved too quickly! -117.7295841331736,-5.5,173.0792791013182
+[05Apr2025 22:39:26.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 217.500000, -30.500000, -1517.500000]
+[05Apr2025 22:39:32.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 104.500000, -34.500000, -1464.500000]
+[05Apr2025 22:39:33.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 200.500000, -29.500000, -1758.500000]
+[05Apr2025 22:39:43.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 5.500000, -41.500000, -1335.500000]
+[05Apr2025 22:39:59.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 99.500000, -45.500000, -1192.500000]
+[05Apr2025 22:40:06.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 43.500000, -41.500000, -1129.500000]
+[05Apr2025 22:40:21.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 152.500000, -47.500000, -993.500000]
+[05Apr2025 22:40:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 140.500000, 84.500000, -2003.500000]
+[05Apr2025 22:40:35.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[05Apr2025 22:41:47.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 32.500000, 81.500000, -2144.500000]
+[05Apr2025 22:43:14.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 32.500000, 81.500000, -2136.500000]
+[05Apr2025 22:43:25.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 209.500000, 73.500000, -2163.500000]
+[05Apr2025 22:43:38.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Enchanter]
+[05Apr2025 22:43:42.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 133.500000, 79.500000, -2002.500000]
+[05Apr2025 22:46:37.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: universo25abri lost connection: Disconnected
+[05Apr2025 22:46:37.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri left the game
+[05Apr2025 22:46:37.082] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client universo25abri
+[05Apr2025 22:46:53.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3nSSky lost connection: Disconnected
+[05Apr2025 22:46:53.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky left the game
+[05Apr2025 22:46:53.934] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Z3nSSky
