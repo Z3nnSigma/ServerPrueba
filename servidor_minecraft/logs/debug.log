@@ -6046,3 +6046,97 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Apr2025 22:02:42.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Gave 1 [Grindstone] to universo25abri]
 [12Apr2025 22:02:48.996] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone
 [12Apr2025 22:03:25.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Gave 300 [Netherite Ingot] to Z3nSSky]
+[12Apr2025 22:04:17.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 22:04:17.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 22:04:56.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported universo25abri to Z3nSSky]
+[12Apr2025 22:05:06.996] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in blue_skies:everbright
+[12Apr2025 22:05:23.989] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in twilightforest:twilight_forest
+[12Apr2025 22:05:39.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 142.500000, 78.500000, -1990.500000]
+[12Apr2025 22:06:19.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -171.500000, 6.500000, -2416.500000]
+[12Apr2025 22:06:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Funeral Theft]
+[12Apr2025 22:07:20.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 9.500000, -6.500000, -1796.500000]
+[12Apr2025 22:08:40.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -44.500000, 34.500000, -1507.500000]
+[12Apr2025 22:08:53.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Tie me to the Mast]
+[12Apr2025 22:09:14.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -12.500000, 38.500000, -1273.500000]
+[12Apr2025 22:09:17.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 22:09:17.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 22:10:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -27.500000, 23.500000, -1180.500000]
+[12Apr2025 22:10:20.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -44.500000, 10.500000, -1063.500000]
+[12Apr2025 22:10:59.740] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[12Apr2025 22:12:01.000] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in blue_skies:everdawn
+[12Apr2025 22:12:14.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[12Apr2025 22:13:05.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 103.500000, 6.500000, -1269.500000]
+[12Apr2025 22:13:13.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 1.500000, 29.500000, -911.500000]
+[12Apr2025 22:13:13.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Quite the Renovation]
+[12Apr2025 22:13:17.993] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in blue_skies:everbright
+[12Apr2025 22:13:21.992] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in aether:the_aether
+[12Apr2025 22:13:44.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -135.500000, 19.500000, -775.500000]
+[12Apr2025 22:13:49.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -83.500000, -8.500000, -746.500000]
+[12Apr2025 22:13:54.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -48.500000, 11.500000, -656.500000]
+[12Apr2025 22:14:16.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 22:14:16.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 22:14:19.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 82.500000, -11.500000, -763.500000]
+[12Apr2025 22:14:29.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 193.500000, -17.500000, -661.500000]
+[12Apr2025 22:14:56.991] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in undergarden:undergarden
+[12Apr2025 22:15:08.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 55.500000, -2.500000, -628.500000]
+[12Apr2025 22:15:25.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 162.500000, -42.500000, -509.500000]
+[12Apr2025 22:15:25.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [A Bone to Pick]
+[12Apr2025 22:15:28.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 198.500000, -2.500000, -554.500000]
+[12Apr2025 22:16:16.070] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[12Apr2025 22:16:36.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 150.500000, 30.500000, -611.500000]
+[12Apr2025 22:16:36.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [Cobweb Entanglement]
+[12Apr2025 22:16:36.991] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in blue_skies:everdawn
+[12Apr2025 22:16:41.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 63.500000, 15.500000, -535.500000]
+[12Apr2025 22:17:11.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 81.500000, 12.500000, -421.500000]
+[12Apr2025 22:18:27.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -5.500000, 62.500000, -604.500000]
+[12Apr2025 22:19:17.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 22:19:17.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 22:19:17.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 126.500000, -45.500000, -311.500000]
+[12Apr2025 22:19:18.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 195.500000, 70.500000, -264.500000]
+[12Apr2025 22:19:26.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 70.500000, -49.500000, -248.500000]
+[12Apr2025 22:19:30.592] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of universo25abri: {disabled=false, disconnected=false, uuid=09039b30-3dd0-3f40-862d-014a8ac58cf4, name=universo25abri, group=null}
+[12Apr2025 22:19:35.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to 54.500000, -49.500000, -64.500000]
+[12Apr2025 22:19:38.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -137.500000, 88.500000, -128.500000]
+[12Apr2025 22:19:39.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has made the advancement [Sneak 100]
+[12Apr2025 22:19:51.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -1093.500000, 93.500000, 841.500000]
+[12Apr2025 22:19:57.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -850.500000, 212.500000, 487.500000]
+[12Apr2025 22:20:04.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to universo25abri]
+[12Apr2025 22:20:24.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -1108.500000, -50.500000, 571.500000]
+[12Apr2025 22:20:32.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[12Apr2025 22:20:57.985] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in aether:the_aether
+[12Apr2025 22:21:14.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri has reached the goal [A Metropolis of Restless Souls]
+[12Apr2025 22:21:41.985] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[12Apr2025 22:21:54.989] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in undergarden:undergarden
+[12Apr2025 22:22:57.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -1117.500000, -50.500000, 502.500000]
+[12Apr2025 22:23:10.987] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[12Apr2025 22:23:30.985] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in deeperdarker:otherside
+[12Apr2025 22:23:57.991] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[12Apr2025 22:24:16.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 22:24:17.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 22:24:27.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -1055.500000, -50.500000, 420.500000]
+[12Apr2025 22:24:28.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has reached the goal [Easy Opening]
+[12Apr2025 22:26:26.655] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:dripstone_caves took 548 ms
+[12Apr2025 22:26:32.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -1948.500000, 75.000000, 284.500000]
+[12Apr2025 22:26:32.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[12Apr2025 22:26:45.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to Z3nSSky]
+[12Apr2025 22:27:00.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -1944.500000, 68.500000, 305.500000]
+[12Apr2025 22:27:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -2001.500000, 68.500000, 311.500000]
+[12Apr2025 22:27:14.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -2026.500000, 64.500000, 282.500000]
+[12Apr2025 22:28:22.114] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Z3nSSky: {disabled=true, disconnected=false, uuid=76957267-1930-376a-893a-2f677d544985, name=Z3nSSky, group=null}
+[12Apr2025 22:28:49.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Teleported universo25abri to -2256.500000, 66.500000, 144.500000]
+[12Apr2025 22:28:53.224] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[12Apr2025 22:28:59.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -2270.500000, 66.500000, 138.500000]
+[12Apr2025 22:29:19.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 22:29:19.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 22:29:19.385] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in the_bumblezone:the_bumblezone
+[12Apr2025 22:30:41.237] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in deeperdarker:otherside
+[12Apr2025 22:31:53.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: universo25abri lost connection: Disconnected
+[12Apr2025 22:31:53.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: universo25abri left the game
+[12Apr2025 22:31:53.097] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of universo25abri
+[12Apr2025 22:31:53.098] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client universo25abri
+[12Apr2025 22:32:38.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Gave 1 [Arsenic Ore] to Z3nSSky]
+[12Apr2025 22:32:49.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Z3nSSky has made the advancement [A Poisoning Discovery]
+[12Apr2025 22:33:04.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -2273.500000, 101.500000, 152.500000]
+[12Apr2025 22:33:10.224] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[12Apr2025 22:33:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -1948.500000, 75.000000, 284.500000]
+[12Apr2025 22:33:29.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -1996.500000, 66.500000, 307.500000]

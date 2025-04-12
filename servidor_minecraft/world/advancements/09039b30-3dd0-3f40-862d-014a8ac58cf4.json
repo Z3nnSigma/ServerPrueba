@@ -158,10 +158,13 @@
       "minecraft:mangrove_swamp": "2025-04-04 21:22:25 +0000",
       "minecraft:river": "2025-04-04 19:04:09 +0000",
       "minecraft:lukewarm_ocean": "2025-04-05 22:36:11 +0000",
+      "minecraft:dripstone_caves": "2025-04-12 22:26:45 +0000",
       "minecraft:swamp": "2025-04-04 19:59:09 +0000",
       "minecraft:forest": "2025-04-04 19:01:14 +0000",
       "minecraft:lush_caves": "2025-04-05 22:35:58 +0000",
       "minecraft:ocean": "2025-04-04 20:52:27 +0000",
+      "minecraft:flower_forest": "2025-04-12 22:19:27 +0000",
+      "minecraft:deep_dark": "2025-04-12 22:19:36 +0000",
       "minecraft:savanna": "2025-04-04 21:24:43 +0000",
       "minecraft:plains": "2025-04-04 19:03:43 +0000"
     },
@@ -614,11 +617,15 @@
     "criteria": {
       "redstone_abyss": "2025-04-05 21:46:36 +0000",
       "bayou": "2025-04-04 19:57:51 +0000",
+      "autumnal_maple_forest": "2025-04-12 22:30:41 +0000",
+      "prismachasm": "2025-04-12 22:28:50 +0000",
       "marsh": "2025-04-04 21:19:32 +0000",
       "willow_forest": "2025-04-04 19:50:46 +0000",
       "grassy_beach": "2025-04-04 20:10:08 +0000",
       "rocky_meadow": "2025-04-04 21:23:25 +0000",
       "mycotoxic_undergrowth": "2025-04-05 21:43:20 +0000",
+      "highland_fields": "2025-04-12 22:28:20 +0000",
+      "maple_forest": "2025-04-12 22:30:11 +0000",
       "magnolia_highlands": "2025-04-04 21:18:51 +0000",
       "deciduous_forest": "2025-04-05 21:59:40 +0000",
       "glistering_meadow": "2025-04-05 21:49:46 +0000",
@@ -633,10 +640,13 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "bayou": "2025-04-04 19:57:51 +0000",
+      "autumnal_maple_forest": "2025-04-12 22:30:41 +0000",
       "marsh": "2025-04-04 21:19:32 +0000",
       "willow_forest": "2025-04-04 19:50:46 +0000",
       "grassy_beach": "2025-04-04 20:10:08 +0000",
       "rocky_meadow": "2025-04-04 21:23:25 +0000",
+      "highland_fields": "2025-04-12 22:28:20 +0000",
+      "maple_forest": "2025-04-12 22:30:11 +0000",
       "magnolia_highlands": "2025-04-04 21:18:51 +0000",
       "deciduous_forest": "2025-04-05 21:59:40 +0000",
       "towering_cliffs": "2025-04-04 21:25:34 +0000",
@@ -1017,7 +1027,8 @@
       "minecraft:husk": "2025-04-04 21:24:10 +0000",
       "minecraft:enderman": "2025-04-05 21:42:19 +0000",
       "minecraft:vex": "2025-04-05 22:19:08 +0000",
-      "minecraft:zombie": "2025-04-04 19:57:25 +0000"
+      "minecraft:zombie": "2025-04-04 19:57:25 +0000",
+      "minecraft:zombie_villager": "2025-04-12 22:30:04 +0000"
     },
     "done": false
   },
@@ -4228,9 +4239,88 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-12 22:31:43 +0000",
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-12 22:31:19 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/tools/zanite_pickaxe": {
     "criteria": {
       "has_zanite": "2025-04-12 21:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-12 22:14:34 +0000"
     },
     "done": true
   },
@@ -4246,6 +4336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-12 22:14:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/carved_stairs": {
     "criteria": {
       "has_carved_stone": "2025-04-12 21:40:50 +0000"
@@ -4255,6 +4351,18 @@
   "aether:recipes/combat/zanite_gloves": {
     "criteria": {
       "has_zanite": "2025-04-12 21:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-12 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-12 22:16:05 +0000"
     },
     "done": true
   },
@@ -4282,9 +4390,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-12 22:14:34 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-12 22:13:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_chestplate": {
     "criteria": {
       "has_zanite": "2025-04-12 21:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-12 22:14:37 +0000"
     },
     "done": true
   },
@@ -4336,6 +4462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-12 22:14:37 +0000"
+    },
+    "done": true
+  },
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2025-04-12 21:35:30 +0000"
@@ -4348,6 +4480,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "prismachasm": "2025-04-12 22:28:50 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
     "criteria": {
       "has_carved_stone": "2025-04-12 21:40:50 +0000"
@@ -4357,6 +4495,18 @@
   "deep_aether:recipes/combat/skyjade_helmet": {
     "criteria": {
       "has_skyjade": "2025-04-12 21:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-12 22:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 22:26:47 +0000"
     },
     "done": true
   },
@@ -4384,9 +4534,21 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-12 22:15:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-04-12 21:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 22:26:47 +0000"
     },
     "done": true
   },
@@ -4405,6 +4567,18 @@
   "deep_aether:recipes/tools/skyjade_pickaxe": {
     "criteria": {
       "has_skyjade": "2025-04-12 21:44:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-04-12 22:06:54 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-04-12 22:19:36 +0000"
     },
     "done": true
   },
@@ -4444,6 +4618,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-12 22:16:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-12 22:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 22:26:47 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_zanite_vanilla_shield": {
     "criteria": {
       "has_zanite_gemstone": "2025-04-12 21:44:51 +0000"
@@ -4468,6 +4666,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-04-12 22:21:14 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_pendant": {
     "criteria": {
       "has_zanite": "2025-04-12 21:44:51 +0000"
@@ -4480,9 +4684,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 22:26:47 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/nature_staff": {
     "criteria": {
       "has_zanite": "2025-04-12 21:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-12 22:14:34 +0000"
     },
     "done": true
   },
@@ -4504,9 +4720,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-12 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-12 22:14:37 +0000"
+    },
+    "done": true
+  },
   "deep_aether:recipes/decorations/skyjade_from_skyjade_block": {
     "criteria": {
       "has_skyjade": "2025-04-12 21:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-12 22:14:34 +0000"
     },
     "done": true
   },
@@ -4525,6 +4759,18 @@
   "aether:recipes/tools/holystone_pickaxe_repairing": {
     "criteria": {
       "has_holystone_pickaxe": "2025-04-12 21:49:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-12 22:14:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-04-12 22:01:06 +0000"
     },
     "done": true
   },
@@ -4558,6 +4804,25 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-12 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-12 22:13:13 +0000",
+      "in_better_skeleton_dungeon": "2025-04-12 22:15:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-12 22:19:39 +0000"
+    },
+    "done": true
+  },
   "deep_aether:recipes/combat/skyjade_leggings": {
     "criteria": {
       "has_skyjade": "2025-04-12 21:44:51 +0000"
@@ -4576,9 +4841,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-12 22:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-12 22:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-12 22:26:47 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/wooden_sword_repairing": {
     "criteria": {
       "has_wooden_sword": "2025-04-12 21:52:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2025-04-12 21:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-12 22:16:09 +0000"
     },
     "done": true
   },
