@@ -6032,3 +6032,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [12Apr2025 21:52:21.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Z3nSSky moved too quickly! 1.7513915220679337,-1.2468000194787976,9.907862233011429
 [12Apr2025 21:52:29.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 35.500000, 294.500000, -905.500000]
 [12Apr2025 21:52:39.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 140.500000, 84.500000, -2003.500000]
+[12Apr2025 21:54:16.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 21:54:17.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 21:54:17.070] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[12Apr2025 21:59:16.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 21:59:17.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 22:00:29.987] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in the_bumblezone:the_bumblezone
+[12Apr2025 22:00:33.983] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in twilightforest:twilight_forest
+[12Apr2025 22:01:05.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to 50.500000, 33.500000, -2037.500000]
+[12Apr2025 22:01:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Z3nSSky: Teleported Z3nSSky to -101.500000, -8.500000, -2078.500000]
+[12Apr2025 22:02:13.377] [Worker-Main-48/DEBUG] [mixin/]: Mixing frosted_caves.AquiferMixin from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.Aquifer$NoiseBasedAquifer
+[12Apr2025 22:02:13.381] [Worker-Main-48/DEBUG] [mixin/]: Mixing marble_caves.AquiferMixin from yungscavebiomes.mixins.json into net.minecraft.world.level.levelgen.Aquifer$NoiseBasedAquifer
+[12Apr2025 22:02:42.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Gave 1 [Grindstone] to universo25abri]
+[12Apr2025 22:02:48.996] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in the_bumblezone:the_bumblezone
+[12Apr2025 22:03:25.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [universo25abri: Gave 300 [Netherite Ingot] to Z3nSSky]
